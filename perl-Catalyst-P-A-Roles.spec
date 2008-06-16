@@ -4,7 +4,7 @@
 %define	modprefix Catalyst
 
 %define version 0.04
-%define release %mkrel 2
+%define release %mkrel 3
 
 %define _requires_exceptions perl(A
 
